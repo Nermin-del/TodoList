@@ -1,0 +1,13 @@
+C:\Users\Einar\Desktop\githubrepon\c#\TodoList\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.exe
+C:\Users\Einar\Desktop\githubrepon\c#\TodoList\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.deps.json
+C:\Users\Einar\Desktop\githubrepon\c#\TodoList\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.runtimeconfig.json
+C:\Users\Einar\Desktop\githubrepon\c#\TodoList\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.runtimeconfig.dev.json
+C:\Users\Einar\Desktop\githubrepon\c#\TodoList\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.dll
+C:\Users\Einar\Desktop\githubrepon\c#\TodoList\TodoList\TodoList\bin\Debug\netcoreapp3.1\TodoList.pdb
+C:\Users\Einar\Desktop\githubrepon\c#\TodoList\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.csprojAssemblyReference.cache
+C:\Users\Einar\Desktop\githubrepon\c#\TodoList\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.csproj.CoreCompileInputs.cache
+C:\Users\Einar\Desktop\githubrepon\c#\TodoList\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.AssemblyInfoInputs.cache
+C:\Users\Einar\Desktop\githubrepon\c#\TodoList\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.AssemblyInfo.cs
+C:\Users\Einar\Desktop\githubrepon\c#\TodoList\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.dll
+C:\Users\Einar\Desktop\githubrepon\c#\TodoList\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.pdb
+C:\Users\Einar\Desktop\githubrepon\c#\TodoList\TodoList\TodoList\obj\Debug\netcoreapp3.1\TodoList.genruntimeconfig.cache
